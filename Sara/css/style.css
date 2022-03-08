@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(114, 153, 226);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(to right ,rgb(163, 207, 230), rgb(112, 179, 235));
+    margin: 5ex;
+  
+    
+}
+#um{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;color: blue;}
+#dois{font-family: 'Times New Roman', Times, serif;color: darkolivegreen;}
+#tres{font-family: Arial, Helvetica, sans-serif;color: darkslategray;}
+#quatro{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;color: blueviolet;}
+h1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+img{
+    align="Medium"
+}
